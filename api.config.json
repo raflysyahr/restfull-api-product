@@ -1,0 +1,11 @@
+{
+    "auth":{
+        "jwt":true,
+        "expired":"6m",
+        "algorithm":"RS256"
+    },
+    "limiter":{
+        "windowMs":"15m",
+        "max":40
+    }
+}

@@ -1,0 +1,12 @@
+tmp
+node_modules
+request.request
+privatKey.key
+**/pps.js
+.env
+**/cli/
+**/ldc/
+**/bind
+**/dev
+**/_test_
+
